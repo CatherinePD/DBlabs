@@ -1,0 +1,9 @@
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\bin\Debug\Database.dacpac
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\bin\Debug\Database.dll
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\bin\Debug\Database.pdb
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\Database.dll
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\Database.pdb
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\Model.xml
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\refactor.xml
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\postdeploy.sql
+D:\3rd course\2nd sem\БД\Лабы\lab3\Database\obj\Debug\predeploy.sql

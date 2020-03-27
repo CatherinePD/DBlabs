@@ -1,0 +1,6 @@
+D:\3rd course\2nd sem\БД\Лабы\lab3\lab3\bin\Debug\lab3.pdb
+D:\3rd course\2nd sem\БД\Лабы\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\3rd course\2nd sem\БД\Лабы\lab3\lab3\obj\Debug\lab3.pdb
+D:\3rd course\2nd sem\БД\Лабы\lab3\lab3\bin\Debug\lab3.dll.config
+D:\3rd course\2nd sem\БД\Лабы\lab3\lab3\bin\Debug\lab3.dll
+D:\3rd course\2nd sem\БД\Лабы\lab3\lab3\obj\Debug\lab3.dll
